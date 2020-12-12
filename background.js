@@ -1,0 +1,1 @@
+console.log("Wishlist-Cart-Extension is running");

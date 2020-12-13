@@ -2,6 +2,7 @@
     "name": "(TEST) Wishlist Cart", 
     "version": "1", 
     "description": "Global wishlist cart to store all the stuff you're longing for", 
+    "permissions": ["storage"],
     "background": {
         "scripts": ["background.js"],
         "persistent": false
